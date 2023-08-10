@@ -1,1 +1,1 @@
-# elang README
+# Elang Syntax Highlighting in VS CODE
