@@ -1,0 +1,25 @@
+{
+  "name": "elang",
+  "displayName": "elang-syntax-highlighting",
+  "description": "Elang Programming Language",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "elang",
+      "aliases": ["Elang", "elang"],
+      "extensions": [".le"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "elang",
+      "scopeName": "source.le",
+      "path": "./syntaxes/elang.tmLanguage.json"
+    }]
+  }
+}
