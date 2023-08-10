@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
-	"name": "Elang",
+	"name": "elang",
 	"patterns": [
 		{
 			"include": "#keywords"
@@ -31,8 +31,6 @@
 		{
 			"include": "#constants"
 		}
-		
-
 	],
 	"repository": {
 		"keywords": {

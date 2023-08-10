@@ -1,6 +1,6 @@
 {
   "name": "elang",
-  "displayName": "Elang Syntax Highlighter",
+  "displayName": "Elang Syntax Highlighter & Compiler",
   "description": "Elang Programming Language",
   "version": "0.0.1",
   "engines": {
